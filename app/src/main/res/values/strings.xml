@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment_Demo2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="fragment4">Fragment 4</string>
+    <string name="fragment5">Fragment 5</string>
+    <string name="fragment6">Fragment 6</string>
+</resources>
